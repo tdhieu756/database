@@ -36,6 +36,16 @@
         "id": 1,
         "email": "dtu@dtu.edu.vn",
         "fax": "+84-236-3650443",
-        "website": "http://www.duytan.edu.vn"
+        "website": "http://www.duytan.edu.vn",
+        "tell": [
+            {
+                "id": 1,
+                "phone": "+84-236-3653561"
+            },
+            {
+                "id": 2,
+                "phone": "+84-236-3650403"
+            }
+        ]
     }
 }
