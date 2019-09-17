@@ -65,5 +65,47 @@
                 "address": "Hoa Minh, Lien Chieu, Danang, Vietnam"
             }
         ]
-    }
+    },
+    "contactsMeeting": [
+        {
+            "id": 1,
+            "status": true,
+            "number": 1,
+            "coordinator": "name",
+            "tell": "+8477123456",
+            "email": "Coordinator1@duytan.edu.vn"
+        },
+        {
+            "id": 2,
+            "status": true,
+            "number": 2,
+            "coordinator": "name 1",
+            "tell": "+8477123457",
+            "email": "Coordinator2@duytan.edu.vn"
+        },
+        {
+            "id": 3,
+            "status": true,
+            "number": 3,
+            "coordinator": "name 2",
+            "tell": "+8477123458",
+            "email": "Coordinator3@duytan.edu.vn"
+        },
+        {
+            "id": 4,
+            "status": true,
+            "number": 4,
+            "coordinator": "name 3",
+            "tell": "+8477123458",
+            "email": "Coordinator3@duytan.edu.vn"
+        },
+        {
+            "id": 5,
+            "status": true,
+            "number": 5,
+            "coordinator": "name 4",
+            "tell": "+8477123458",
+            "email": "Coordinator3@duytan.edu.vn"
+        }
+    ]
 }
