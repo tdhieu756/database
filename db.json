@@ -186,25 +186,5 @@
             "image": "",
             "content": "Nulla sed mi nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Fusce facilisis facilisis mi. Curabitur eu augue molestie, sodales urna venenatis, mattis orci. Pellentesque eget ante dignissim, egestas odio sit amet, tempus nunc.Nunc ut nibh aliquam, iaculis metus in, posuere urna. Sed blandit tincidunt erat, id eleifend arcu ullamcorper vel. Donec at bibendum eros. Class aptent taciti sociosqua.... Vivamus feugiat, urna quis finibus euismod, elit erat interdum ex, pretium commodo est libero ut lectus. In at nunc id felis accumsan consectetur. Nulla sed mi nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam erat volutpat. Fusce facilisis facilisis mi. Curabitur eu augue molestie, sodales urna venenatis, mattis orci. Pellentesque eget ante dignissim, egestas odio sit amet, tempus nunc. Nunc ut nibh aliquam, iaculis metus in, posuere urna. Sed blandit tincidunt erat, id eleifend arcu ullamcorper vel. Donec at bibendum eros. Class aptent taciti sociosqua..."
         }
-    ],
-    "objectives" : [
-        {
-            "id": 1,
-            "status": true,
-            "number": 1,
-            "content": "Tìm một component mà nó chủ sở hữu chung của các component khác (một component nằm bên trên tất cả các component khác trong hệ thống phân cấp thì cần có state)."
-        },
-        {
-            "id": 2,
-            "status": true,
-            "number": 2,
-            "content": "Hoặc là những component là chủ sở hữu chung hoặc là những component nằm trên hệ thống phân cấp sẽ nên giữ state."
-        },
-        {
-            "id": 3,
-            "status": true,
-            "number": 3,
-            "content": "Nếu bạn không thể tìm ra component nào phù hợp, hãy tạo một component mới đơn giản giữ nhiệm vụ lưu trữ state và đặt nó đâu đó nằm bên trên các component là chủ sở hữu chung trong hệ thống phân cấp."
-        }
     ]
 }
