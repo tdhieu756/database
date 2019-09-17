@@ -46,6 +46,24 @@
                 "id": 2,
                 "phone": "+84-236-3650403"
             }
+        ],
+        "campus": [
+            {
+                "id": 1,
+                "address": "254 Nguyen Van Linh, Danang, Vietnam"
+            },
+            {
+                "id": 2,
+                "address": "137 Nguyen Van Linh, Danang, Vietnam"
+            },
+            {
+                "id": 3,
+                "address": "3 Quang Trung, Danang, Vietnam"
+            },
+            {
+                "id": 4,
+                "address": "Hoa Minh, Lien Chieu, Danang, Vietnam"
+            }
         ]
     }
 }
