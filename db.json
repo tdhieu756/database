@@ -32,38 +32,4 @@
             }
         ]
     },
-    "contacts": {
-        "id": 1,
-        "email": "dtu@dtu.edu.vn",
-        "fax": "+84-236-3650443",
-        "website": "http://www.duytan.edu.vn",
-        "tell": [
-            {
-                "id": 1,
-                "phone": "+84-236-3653561"
-            },
-            {
-                "id": 2,
-                "phone": "+84-236-3650403"
-            }
-        ],
-        "campus": [
-            {
-                "id": 1,
-                "address": "254 Nguyen Van Linh, Danang, Vietnam"
-            },
-            {
-                "id": 2,
-                "address": "137 Nguyen Van Linh, Danang, Vietnam"
-            },
-            {
-                "id": 3,
-                "address": "3 Quang Trung, Danang, Vietnam"
-            },
-            {
-                "id": 4,
-                "address": "Hoa Minh, Lien Chieu, Danang, Vietnam"
-            }
-        ]
-    }
 }
